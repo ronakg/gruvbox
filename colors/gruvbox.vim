@@ -567,13 +567,13 @@ hi! link Function GruvboxGreenBold
 " Generic preprocessor
 hi! link PreProc GruvboxAqua
 " Preprocessor #include
-hi! link Include GruvboxAqua
+hi! link Include GruvboxOrange
 " Preprocessor #define
 hi! link Define GruvboxAqua
 " Same as Define
-hi! link Macro GruvboxAqua
+hi! link Macro GruvboxBlue
 " Preprocessor #if, #else, #endif, etc.
-hi! link PreCondit GruvboxAqua
+hi! link PreCondit GruvboxPurple
 
 " Generic constant
 hi! link Constant GruvboxPurple
